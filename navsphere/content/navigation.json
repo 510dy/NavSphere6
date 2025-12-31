@@ -44,6 +44,14 @@
           "description": "免费docker容器",
           "icon": "/assets/favicon_1767175826264.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767175981072_8q562nsqp",
+          "title": "FreeDNS",
+          "href": "https://freedns.afraid.org/",
+          "description": "免费DNS解析，免费域名",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=freedns.afraid.org",
+          "enabled": true
         }
       ],
       "subCategories": [],
