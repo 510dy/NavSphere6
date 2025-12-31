@@ -28,6 +28,14 @@
           "description": "Build with AI or code, deploy instantly. One platform with everything you need to make real apps live.",
           "icon": "/assets/favicon_1767175632461.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1767175784007_nujw4zvis",
+          "title": "Zeabur",
+          "href": "https://zeabur.com",
+          "description": "你的 AI 运维工程师\n处理所有的 测试任务",
+          "icon": "/assets/favicon_1767175767786.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
