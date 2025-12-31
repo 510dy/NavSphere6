@@ -60,6 +60,14 @@
           "description": "免费域名",
           "icon": "/assets/favicon_1767176095558.jpg",
           "enabled": true
+        },
+        {
+          "id": "site_1767176254976_wrguycglg",
+          "title": "DNSHE",
+          "href": "https://www.dnshe.com/",
+          "description": "免费域名",
+          "icon": "/assets/favicon_1767176233198.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
