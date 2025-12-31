@@ -36,6 +36,14 @@
           "description": "你的 AI 运维工程师\n处理所有的 测试任务",
           "icon": "/assets/favicon_1767175767786.png",
           "enabled": true
+        },
+        {
+          "id": "site_1767175855032_nw4gi9pqs",
+          "title": "ClawCloud",
+          "href": "https://run.claw.cloud/",
+          "description": "免费docker容器",
+          "icon": "/assets/favicon_1767175826264.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
