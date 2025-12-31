@@ -80,7 +80,16 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1767177790965_dk6l281bk",
+          "title": "Bilibili",
+          "href": "https://bilibili.com",
+          "description": "访问 bilibili.com",
+          "icon": "/assets/favicon_1767177775775.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
