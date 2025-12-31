@@ -2,8 +2,8 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "title": "域名容器",
+      "icon": "Box",
       "items": [
         {
           "id": "1_2",
